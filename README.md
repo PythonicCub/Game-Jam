@@ -1,7 +1,7 @@
 # Game Jam Project Report: *The Collapse of Civilization*
 
 ## Introduction
-Our participation in the recent game jam led us to develop a project titled *The Collapse of Civilization*. The project initially aimed to combine 2D and 3D elements in a dynamic environment featuring four unique characters, intricate puzzles, and interactive NPC dialogues. While our goal was ambitious, our limited knowledge of game development presented unforeseen challenges. Despite our efforts, we were ultimately able to submit a scaled-down version of the game, which consisted of a 2D character moving in a 3D environment that emitted a beeping sound upon collision with objects.
+Our participation in the recent "Game Jam" led us to develop a project titled *The Collapse of Civilization*. The project initially aimed to combine 2D and 3D elements in a dynamic environment featuring four unique characters, intricate puzzles, and interactive NPC dialogues. While our goal was ambitious, our limited knowledge of game development presented unforeseen challenges. However, we were ultimately able to submit a scaled-down version of the game, which consisted of a 2D character moving in a 3D environment that emitted a beeping sound upon collision with objects.
 
 ## Initial Goals and Vision
 Our primary objective was to create a comprehensive game with the following key elements:
@@ -29,11 +29,11 @@ Our experience provided insights into:
 Our team's dedication ensured significant progress in various aspects of the project. The individual contributions are as follows:
 - **Anand:** Script development and environment design.
 - **Ashwin:** Background assets and environment creation.
-- **Rohan:** Character design and motion implementation.
 - **Kestelyn:** NPC character design and dialogue writing.
+- **Rohan:** Character design and motion implementation.
 
 ## Conclusion
-While we were unable to deliver the complete vision we set out to achieve, our participation in the game jam was an invaluable learning experience. Moving forward, we aim to build upon the knowledge gained, refine our skills, and expand our understanding of game development to create more advanced projects in the future.
+While we were unable to deliver the complete vision we set out to achieve, our participation in the "Game Jam" was an invaluable learning experience. Moving forward, we aim to build upon the knowledge gained, refine our skills, and expand our understanding of game development to create more advanced projects in the future.
 
 Our journey reflects our growth as developers, and we are proud of the progress made despite the challenges faced. We look forward to future opportunities to apply these lessons and deliver an improved version of *The Collapse of Civilization*.
 
